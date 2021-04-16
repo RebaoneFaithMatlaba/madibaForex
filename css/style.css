@@ -1,0 +1,48 @@
+/*navigation coding for small devices start here*/
+
+.sm-navigation-wrapper{
+    height:100px;
+    background-color:black !important;
+}
+
+/*navigation coding for small devices ended here*/
+
+
+/*background-section coding for small devices start here*/
+
+.sm-inner-background{
+    background-color:#00000070 !important;
+}
+.sm-background-image{
+    margin-top:20px;
+}
+/*background-section coding for small devices ended here*/
+
+/*content section wrapper coding start*/
+
+.content-section-wrapper{
+    background-color:darkblue;
+}
+
+/*content-section wrapper coding ended*/
+
+
+/*about section start */
+.about-mask{
+    background-color:#000000ba;
+}
+/*about section end*/
+
+
+/*navigation start here*/
+.sm-navigation-list-wrapper{
+    border-top:solid 1px white;
+    position:absolute;
+    top:100px;
+    height:420px;
+    display:none;
+}
+.phone-li{
+    margin-top:30px;
+}
+/*navigation ended here*/
